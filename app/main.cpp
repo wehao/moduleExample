@@ -11,3 +11,5 @@ int main(int argc, char *argv[])
 
     return app.exec();
 }
+
+//http://www.kuqin.com/qtdocument/qpainter.html#drawArc
